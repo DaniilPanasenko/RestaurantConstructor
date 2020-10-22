@@ -10,8 +10,8 @@ Restaurant room constructor. Simple graphical editor implemented in javascript w
 ### Tehnologies
 JavaScript, HTML, CSS
 ### Screenshoots
-![Creating cartesian tree](https://github.com/DaniilPanasenko/RestaurantMaker/raw/master/Screenshots/screen1.png)
-![Inserting into saved cartesian tree](https://github.com/DaniilPanasenko/RestaurantMaker/raw/master/Screenshots/screen2.png)
+![Creating cartesian tree](https://github.com/DaniilPanasenko/RestaurantConstructor/raw/master/Screenshots/screen1.png)
+![Inserting into saved cartesian tree](https://github.com/DaniilPanasenko/RestaurantConstructor/raw/master/Screenshots/screen2.png)
 ### Demo video
-[![Watch the video](https://github.com/DaniilPanasenko/RestaurantMaker/raw/master/Screenshots/demo_picture.png)](https://youtu.be/GEHJ-oZqzKI)
+[![Watch the video](https://github.com/DaniilPanasenko/RestaurantConstructor/raw/master/Screenshots/demo_picture.png)](https://youtu.be/GEHJ-oZqzKI)
 
